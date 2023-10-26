@@ -1,0 +1,15 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: palevioletred;
+  }
+  h1 {
+    color:black;
+  }
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color:green;
+  }
+  .text-special {
+    font-weight: bold;
+  }
